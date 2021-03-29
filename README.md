@@ -1,1 +1,1 @@
-# TemporalCompartmentalization_ofViral_Infection_inBactCells
+# Temporal Compartmentalization of Viral Infection in Bacterial Cells
