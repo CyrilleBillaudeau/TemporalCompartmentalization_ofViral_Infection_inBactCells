@@ -1,1 +1,6 @@
 # Temporal Compartmentalization of Viral Infection in Bacterial Cells
+
+These workflow have been designed in the context of the study detailed in Labarde et al. (2021) aiming to ... and published in  ...
+
+In the context of the study, we developped a dedicated to follow the temporal compartmentalization of viral infection in bacterial cells. ...
+
